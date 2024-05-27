@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoldemPoker.Cards", "HoldemPoker.Cards\HoldemPoker.Cards.csproj", "{863DA5C2-42A1-43BF-AEC0-ABDC9E897B89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoldemPoker.Cards.Tests", "HoldemPoker.Cards.Tests\HoldemPoker.Cards.Tests.csproj", "{9E3B8F28-2892-4D88-A873-499A4473C8F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{863DA5C2-42A1-43BF-AEC0-ABDC9E897B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863DA5C2-42A1-43BF-AEC0-ABDC9E897B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863DA5C2-42A1-43BF-AEC0-ABDC9E897B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863DA5C2-42A1-43BF-AEC0-ABDC9E897B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3B8F28-2892-4D88-A873-499A4473C8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3B8F28-2892-4D88-A873-499A4473C8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3B8F28-2892-4D88-A873-499A4473C8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3B8F28-2892-4D88-A873-499A4473C8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
