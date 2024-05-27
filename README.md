@@ -4,7 +4,7 @@
 ## Description
 This is .NET 8 class library project that contains simple structures for Texas Holdem Poker cards.
 
-The project is available on [NuGet]().
+The project is available on [NuGet](https://www.nuget.org/packages/HoldemPoker.Cards/).
 
 ## Testing
 See [unit tests](HoldemPoker.Cards.Tests)

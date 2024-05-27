@@ -6,4 +6,17 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <PackageId>HoldemPoker.Cards</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Mateusz Bąkała</Authors>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <Description>This is class library project that contains simple structures for Texas Holdem Poker cards.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+  
 </Project>
